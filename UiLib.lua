@@ -1,4 +1,3 @@
-
 --[[
     Sleek Dark UI Library v2
     - Sidebar trái, indicator bar mượt theo tab đang chọn
